@@ -10,13 +10,13 @@ Užsakovas įmonė: **Kauno technologijos universitetas**
 
 Kūrėjas: **Kristupas Kuras** kristupas.kuras@ktu.edu
 
+[Projekto dokumentas (prieiga ribota)](https://ktuedu-my.sharepoint.com/:w:/g/personal/krikur_ktu_lt/EdhPkd7egZpBnOx2DI_JOnEBKeZr69ulLCqFfdyeY_HaFg?e=8ODkdp)
+
 # Turinys
 
 - [Anotacija](#anotacija)
 - ...
   - ...
-
-[Projekto dokumentas](https://ktuedu-my.sharepoint.com/:w:/g/personal/krikur_ktu_lt/EdhPkd7egZpBnOx2DI_JOnEBKeZr69ulLCqFfdyeY_HaFg?e=8ODkdp)
 
 # Anotacija
 
