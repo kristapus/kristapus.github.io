@@ -1,1 +1,1 @@
-# kristupas.github.io
+# Kompiuterinės regos taikymas dviratininko kūno padėties vertinimui
