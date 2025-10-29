@@ -6,7 +6,7 @@ Darbo vadovas: **doc. Eglė Butkevičiūtė** egle.butkeviciute@ktu.lt
 
 Užsakovas: **doc. Eglė Butkevičiūtė** egle.butkeviciute@ktu.lt
 
-Užsakovas įmonė: **Kauno technologijos universitetas**
+Užsakovo įmonė: **Kauno technologijos universitetas**
 
 Studentas: **Kristupas Kuras** kristupas.kuras@ktu.edu
 
