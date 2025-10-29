@@ -2,122 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Darbo vadovas: **doc. Eglė Butkevičiūtė**
 
-[Link to another page](./another-page.html).
+Užsakovas: **doc. Eglė Butkevičiūtė**
 
-There should be whitespace between paragraphs.
+Užsakovas įmonė: **Kauno technologijos universitetas**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Kūrėjas: **Kristupas Kuras**
 
-# Header 1
+### Turinys
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- [Anotacija](#anotacija)
+- ...
+  - ...
 
-## Header 2
+### Anotacija
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Darbo tikslas yra automatinis dviratininko kūno padėties analizavimas važiavimo metu ir rekomendacijų teikimas optimaliam sėdėjimui, pasitelkiant kompiuterinės regos ir mašininio mokymosi metodus. Galutinė sistema leis dviratininkui įkelti važiavimo dviračiu vaizdo įrašą arba realiu laiku analizuoti naudojant įrenginio kamerą. Sistema automatiškai įvertins kūno padėtį, padės identifikuoti galimus rizikos veiksnius bei pateiks praktinius patarimus, kaip pagerinti sėdėseną. pvz. pakelti balnelį 2cm, labiau sulenkti alkūnes, pėdą laikyti lygiagrečiau.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Pagrindinis darbo akcentas yra kompiuterinės regos algoritmų tyrimas bei pritaikymas, kurie leistų automatiškai analizuoti dviratininko kūno poziciją judesio metu. Sistema turi būti pakankamai tiksli ir efektyvi, gėbėti realiu laiku analizuoti ir vertinti padėtį. Dėmesys skiriamas naudotojo privatimui, užtikrinant galimybę rekomendacijas gauti lokaliai, be vaizdo įrašų dalijimosi su kitais ar siuntimo į nutolusius serverius.
