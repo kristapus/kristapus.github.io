@@ -16,7 +16,7 @@ Kūrėjas: **Kristupas Kuras** kristupas.kuras@ktu.edu
 - ...
   - ...
 
-(Projekto dokumentas)[https://ktuedu-my.sharepoint.com/:w:/g/personal/krikur_ktu_lt/EdhPkd7egZpBnOx2DI_JOnEBKeZr69ulLCqFfdyeY_HaFg?e=8ODkdp]
+[Projekto dokumentas](https://ktuedu-my.sharepoint.com/:w:/g/personal/krikur_ktu_lt/EdhPkd7egZpBnOx2DI_JOnEBKeZr69ulLCqFfdyeY_HaFg?e=8ODkdp)
 
 # Anotacija
 
