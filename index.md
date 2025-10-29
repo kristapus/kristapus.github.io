@@ -10,7 +10,7 @@ Užsakovo įmonė: **Kauno technologijos universitetas**
 
 Studentas: **Kristupas Kuras** kristupas.kuras@ktu.edu
 
-[Projekto dokumentas (prieiga ribota)](https://ktuedu-my.sharepoint.com/:w:/g/personal/krikur_ktu_lt/EdhPkd7egZpBnOx2DI_JOnEBKeZr69ulLCqFfdyeY_HaFg?e=8ODkdp)
+[Projekto dokumentas (prieiga ribota)](https://ktuedu-my.sharepoint.com/:w:/g/personal/krikur_ktu_lt/Edo7zF71lsNIj3Xwkh5rzJQBJuV_mlQlLKr8WILmF224BA?e=1cHQAv)
 
 # Turinys
 
